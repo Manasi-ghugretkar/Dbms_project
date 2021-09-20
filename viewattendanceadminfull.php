@@ -35,14 +35,14 @@ $con = mysqli_connect('localhost','root','','attendance');
 		    <a class="a_color" href="admin.php"><button type="button" class="btn btn-primary btn-lg">Admin Dashboard</button></a>
 
 		   <br>
-<h4 class="text-center">Overall attendance of employees sorted by date.</h4>
+<h4 class="text-center">Overall attendance of Students sorted by date.</h4>
 
 
 		
 		<table class="table table-striped table-bordered">
    <thead>
       <tr>
-        <th>EID</th>
+        <th>SID</th>
         <th>Name</th>
 		<th>Date</th>
 		<th>Present/Abscent</th>

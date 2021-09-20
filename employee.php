@@ -21,14 +21,14 @@ if(isset($_GET['insert_employee'])) {
 ?>   
  <div class="container-fluid" style="background-color:lavenderblush";>
 
-          <h1 class="h1_index text-center">Employee Board</h1>
+          <h1 class="h1_index text-center">Student Board</h1>
 		   <br>
 		    <a class="a_color" href="admin.php"><button type="button" class="btn btn-primary btn-lg">Admin Dashboard</button></a>
 
 		   <br>
 </div>		   
    <div class="col-sm-10" style="background-color:lavenderblush;">
-     <h1>Enter Details of new employee.</h1>
+     <h1>Enter Details of new Student.</h1>
 
 <form  action="insertemployee.php" method="POST">
 
@@ -88,7 +88,7 @@ if(isset($_GET['view_employee'])) {
 
  <div class="container-fluid" style="background-color:lavenderblush";>
 
-          <h1 class="h1_index text-center">Employee Board</h1>
+          <h1 class="h1_index text-center">Student Board</h1>
 		   <br>
 		    <a class="a_color" href="admin.php"><button type="button" class="btn btn-primary btn-lg">Admin Dashboard</button></a>
 
@@ -97,14 +97,14 @@ if(isset($_GET['view_employee'])) {
 
     <div class="container-fluid" style="background-color:lavenderblush";>
 
-          <h1 class="h1_index text-center">Employee Details</h1>
+          <h1 class="h1_index text-center">Student Details</h1>
 
         <div class="col-sm-10">
 		
 		<table class="table table-striped table-bordered">
    <thead>
       <tr>
-        <th>Emp_Id</th>
+        <th>S_Id</th>
         <th>Name</th>
         <th>Gender</th>
 		<th>Email</th>

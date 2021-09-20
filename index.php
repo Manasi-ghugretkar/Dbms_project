@@ -14,7 +14,7 @@ echo $date;
 
 ?>
 <div class="container-fluid jumbo">
- <h1 class="text-center">Employee Attendance System</h1>
+ <h1 class="text-center">Student Attendance System</h1>
  <div class="mb-2">
  <h3 class="text-center ">A CMS for Complete Attendace System</h3>
  </div>

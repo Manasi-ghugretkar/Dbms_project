@@ -15,7 +15,7 @@
 
 <div class="container-fluid" style="background-color:lavenderblush";>
 
-          <h1 class="h1_index text-center">Update Employee Details.</h1>
+          <h1 class="h1_index text-center">Update Student Details.</h1>
           <br>
 		    <a class="a_color" href="admin.php"><button type="button" class="btn btn-primary btn-lg">Admin Dashboard</button></a>
 		   <br>
@@ -24,7 +24,7 @@
 		<table class="table table-striped table-bordered">
    <thead>
       <tr>
-        <th>Emp_Id</th>
+        <th> Student_Id</th>
         <th>Name</th>
         <th>Gender</th>
 		<th>Email</th>

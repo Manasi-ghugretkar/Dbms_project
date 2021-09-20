@@ -29,14 +29,14 @@
    
    <a class="a_color" href="viewattendanceadminfull.php"><button type="button" class="btn btn-primary btn-lg">complete attendance</button></a>
    
-   <a class="a_color" href="employee.php?insert_employee=insert_employee"><button type="button" class="btn btn-primary btn-lg">Insert New Employee</button></a>
+   <a class="a_color" href="employee.php?insert_employee=insert_employee"><button type="button" class="btn btn-primary btn-lg">Insert New Student</button></a>
    
    <a class="a_color" href="insertadmin.php"><button type="button" class="btn btn-primary btn-lg">Insert New Admin</button></a>
    
    
-   <a class="a_color" href="employee.php?view_employee=view_employee"><button type="button" class="btn btn-primary btn-lg">View Employee Details</button></a>
+   <a class="a_color" href="employee.php?view_employee=view_employee"><button type="button" class="btn btn-primary btn-lg">View  Student Details</button></a>
    
-   <a class="a_color" href="viewadmin?view_admin=view_admin"><button type="button" class="btn btn-primary btn-lg">View Admin Details</button></a>
+   <!-- <a class="a_color" href="viewadmin?view_admin=view_admin"><button type="button" class="btn btn-primary btn-lg">View Admin Details</button></a> -->
    
 </div>
   
